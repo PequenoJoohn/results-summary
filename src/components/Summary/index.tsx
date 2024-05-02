@@ -31,7 +31,7 @@ export const Summary = () => {
               )}] flex justify-between p-2`}
             >
               <div className="flex gap-3">
-                <img src={result.icon} />
+                <img src={result.icon} alt={result.category} />
                 <p className={`text-[${colors(result.category)}] font-bold`}>
                   {result.category}
                 </p>
