@@ -13,7 +13,7 @@ function App() {
       <footer className="absolute bottom-[120px] w-full flex justify-center md:text-md text-xs">
         Challenge by{" "}
         <a
-          href="https://www.frontendmentor.io?ref=challenge"
+          href="https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub"
           target="_blank"
           className="ml-1 text-[#3e52a3]"
         >
