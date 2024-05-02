@@ -5,6 +5,7 @@ function App() {
   return (
     <main className="w-full">
       <section className="md:flex md:w-full md:h-screen md:items-center md:justify-center relative">
+        <h1 className="hidden">Results Summary</h1>
         <div className="md:flex md:max-w-[628px] md:w-full md:shadow-3xl rounded-2xl">
           <Result />
           <Summary />
