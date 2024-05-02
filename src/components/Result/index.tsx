@@ -1,7 +1,7 @@
 export const Result = () => {
   return (
     <div className="flex flex-col items-center gap-4 from-[#2e2be9] bg-gradient-to-b from-[#7857ff] to-[#2e2be9] rounded-b-[1rem] text-center pt-4 pb-8 md:rounded-[1rem] md:max-w-[280px] md:w-full">
-      <p className="text-white md:py-2">Your Result</p>
+      <h2 className="text-white md:py-2">Your Result</h2>
 
       <div className="rounded-full bg-gradient-to-b from-[#4e21ca] to-[#2e2be9] w-[120px] h-[100px] h-fit py-4 mx-auto">
         <p className="text-white text-[42px] font-bold">76</p>
